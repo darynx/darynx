@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Darynx</h1>
-
 <p align="center">
   <i>Game server hobbyist & occasional coder.</i>
 </p>
