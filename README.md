@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PixeL\311\221nd \342\227\207.gif" width="100%" />
+  <img src="PixeL%C9%91nd%20%E2%97%87.gif" width="100%" />
 </p>
 
 # Hi, I'm Darynx
