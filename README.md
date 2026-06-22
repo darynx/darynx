@@ -1,33 +1,27 @@
+<h1 align="center">Hi, I'm Darynx</h1>
+
 <p align="center">
-  <img src="PixeL%C9%91nd%20%E2%97%87.gif" width="100%" />
+  <i>Game server hobbyist & occasional coder.</i>
 </p>
 
-# Hi, I'm Darynx
-
-I like messing around with game servers and occasionally writing code.
+<p align="center">
+  <img src="PixeL%C9%91nd%20%E2%97%87.gif" width="70%" />
+</p>
 
 ---
 
 ### Interests
 
-*   **Game Servers:** Terraria & Minecraft
-*   **Dev:** TShock Plugins & Discord Bots
-*   **Env:** Linux & Termux
-
-### Languages & Tools
+*   **Servers:** Terraria, Minecraft, TShock
+*   **Dev:** Plugin development, Discord bots
+*   **Env:** Linux, Termux
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 </p>
-
-**Focusing on:**
-- Object-Oriented Programming
-- Git & GitHub
-- Linux / Termux
-- TShock & Minecraft Plugin Development
 
 ---
 
