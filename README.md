@@ -12,7 +12,7 @@
 
 ### Interests
 
-*   **Servers:** Terraria, Minecraft, TShock
+*   **Servers:** Terraria, Minecraft
 *   **Dev:** Plugin development, Discord bots
 *   **Env:** Linux, Termux
 
