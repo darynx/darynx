@@ -1,6 +1,8 @@
-# Darynx
+<h1 align="center">Hi, I'm Darynx</h1>
 
-I like messing around with game servers and occasionally writing code.
+<p align="center">
+  <i>Game server hobbyist & occasional coder.</i>
+</p>
 
 <p align="center">
   <img src="PixeL%C9%91nd%20%E2%97%87.gif" width="70%" />
@@ -24,13 +26,14 @@ I like messing around with game servers and occasionally writing code.
 ---
 
 ### Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darynx&show_icons=true&hide_border=true&theme=transparent&show=reviews,issues,prs,contribs&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darynx&layout=compact&hide_border=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darynx&show_icons=true&hide_border=true&theme=transparent&show=reviews,issues,prs,contribs&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darynx&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darynx&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=darynx&theme=transparent&no-frame=true&margin-w=5&margin-h=5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darynx&hide_border=true&theme=transparent" />
+  <img src="https://github-profile-trophy.vercel.app/?username=darynx&theme=transparent&no-frame=true&margin-w=5&margin-h=5" />
 </p>
 -->
