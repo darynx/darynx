@@ -1,8 +1,6 @@
-![C#](https://img.shields.io/badge/C%23-TShock%20Dev-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Terraria](https://img.shields.io/badge/Terraria-Server%20Dev-00A4A6?style=for-the-badge&logo=terraria&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Daily%20Use-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Terraria](https://img.shields.io/badge/Interested%20In-Terraria-green?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Interested%20In-Linux-yellow?style=for-the-badge)
+![Programming](https://img.shields.io/badge/Learning-Programming-blue?style=for-the-badge)
 # Hi, I'm Darynx
 
 Terraria(Darynxia) server owner and beginner dev(student).
