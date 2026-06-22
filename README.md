@@ -29,9 +29,11 @@ I like messing around with game servers and occasionally writing code.
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darynx&show_icons=true&hide_border=true&theme=transparent&title_color=000&text_color=000&icon_color=000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darynx&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darynx&layout=compact&hide_border=true&theme=transparent&title_color=000&text_color=000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darynx&layout=compact&hide_border=true&theme=transparent)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darynx&hide_border=true&theme=transparent)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darynx&theme=github-compact)
 -->
