@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=darynx&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=darynx&theme=transparent&no-frame=true&margin-w=5&margin-h=5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darynx&repo=darynx&hide_border=true&theme=transparent" width="48%" />
 </p>
 
 <p align="center">
