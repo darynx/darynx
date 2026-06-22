@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I'm Darynx</h1>
-<p align="center">
-  <i>Game server hobbyist & occasional coder.</i>
-</p>
+# Darynx
+
+I like messing around with game servers and occasionally writing code.
 
 <p align="center">
   <img src="PixeL%C9%91nd%20%E2%97%87.gif" width="70%" />
