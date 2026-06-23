@@ -30,5 +30,5 @@ I'm a game server hobbyist who enjoys tinkering with infrastructure and occasion
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=darynx&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darynx&repo=darynx&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darynx&theme=tokyonight&hide_border=true" width="48%" />
 </p>
