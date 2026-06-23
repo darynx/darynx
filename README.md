@@ -21,7 +21,7 @@
 ### Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,bash,gcp,linux,nvim" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,bash,gcp,linux,neovim" />
   </a>
 </p>
 
