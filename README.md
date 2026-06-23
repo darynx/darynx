@@ -1,4 +1,4 @@
-<p align="center">
+nvimlign="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Hi,%20I'm%20Darynx&fontSize=70&theme=tokyonight" />
 </p>
 
@@ -26,7 +26,7 @@
 ### Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,bash,gcp,linux,nvim" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,bash,gcp,linux,neovim" />
   </a>
 </p>
 
