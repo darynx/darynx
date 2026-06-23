@@ -1,4 +1,12 @@
-<h1 align="center">Hi, I'm Darynx</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Hi,%20I'm%20Darynx&fontSize=70&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Game+server+hobbyist;Beginner+developer;Learning+the+ropes+of+code;Tinkering+with+Linux" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   I'm a game server hobbyist and a <b>beginner developer</b> currently learning the ropes of software engineering. I spend most of my time tinkering with server infrastructure while teaching myself how to write clean, effective code.
@@ -15,10 +23,10 @@
 *   **Development:** Currently exploring the basics of C#, Java, and JavaScript to build plugins and bots.
 *   **Environments:** Getting comfortable with Linux system administration and mobile dev via Termux.
 
-### Tech Stack
+### Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,bash" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,bash,gcp,linux,nvim" />
   </a>
 </p>
 
