@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Darynx</h1>
+# Darynx
 
-<p align="center">
-  <i>Game server hobbyist & occasional coder.</i>
-</p>
+I like messing around with game servers and occasionally writing code.
 
 <p align="center">
   <img src="PixeL%C9%91nd%20%E2%97%87.gif" width="70%" />
@@ -10,34 +8,26 @@
 
 ---
 
-### Interests
-
-*   **Servers:** Terraria, Minecraft
-*   **Dev:** Plugin development, Discord bots
-*   **Env:** Linux, Termux
-
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,js,bash,linux,git,github,discord" />
+  </a>
 </p>
 
 ---
 
-### Stats
+### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darynx&show_icons=true&hide_border=true&theme=transparent&show=reviews,issues,prs,contribs&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darynx&layout=compact&hide_border=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darynx&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,issues,prs,contribs&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darynx&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darynx&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darynx&repo=darynx&hide_border=true&theme=transparent" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darynx&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darynx&repo=darynx&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darynx&theme=github-compact" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darynx&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-</p>
--->
