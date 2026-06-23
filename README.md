@@ -1,6 +1,6 @@
 # Darynx
 
-I'm a game server hobbyist who enjoys tinkering with infrastructure and occasionally writing code. I spend most of my time configuring servers, developing plugins, and exploring Linux environments.
+I'm a game server hobbyist and a **beginner developer** currently learning the ropes of software engineering. I spend most of my time tinkering with server infrastructure while teaching myself how to write clean, effective code.
 
 <p align="center">
   <img src="PixeL%C9%91nd%20%E2%97%87.gif" width="70%" />
@@ -8,10 +8,10 @@ I'm a game server hobbyist who enjoys tinkering with infrastructure and occasion
 
 ---
 
-### 🎮 Interests & Focus
-*   **Game Servers:** Specialized in Terraria (TShock) and Minecraft server management.
-*   **Development:** Building TShock plugins, Minecraft mods, and utility Discord bots.
-*   **Environments:** Daily driving Linux and using Termux for mobile development.
+### 🎮 Interests & Learning
+*   **Game Servers:** Learning to manage and optimize Terraria (TShock) and Minecraft servers.
+*   **Development:** Currently exploring the basics of C#, Java, and JavaScript to build plugins and bots.
+*   **Environments:** Getting comfortable with Linux system administration and mobile dev via Termux.
 
 ### 🛠️ Tech Stack
 <p align="left">
